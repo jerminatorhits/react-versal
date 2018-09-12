@@ -1,0 +1,28 @@
+.app-links {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  line-height: 1em;
+}
+
+.app-links li {
+  display: inline;
+}
+
+body {
+  margin-top: 30px;
+}
+
+.completed-status {
+  margin-left: 16px;
+  color: green;
+}
+
+.editing-status {
+  margin-left: 16px;
+  color: blue;
+}
